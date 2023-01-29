@@ -70,8 +70,14 @@ i:hover{
 
 #div1 {
   background-color: magenta;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
 }
 #div2 {
   background-color: teal;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
 }
 
