@@ -68,4 +68,10 @@ i:hover{
   opacity: 0.8;
 }
 
+#div1 {
+  background-color: magenta;
+}
+#div2 {
+  background-color: teal;
+}
 
