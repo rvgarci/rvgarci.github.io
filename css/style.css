@@ -13,8 +13,8 @@ html{
 .container{
   height: 100vh;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   flex-direction: column;
   background-color: #09283E;
 }
