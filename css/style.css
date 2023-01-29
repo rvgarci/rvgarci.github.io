@@ -16,7 +16,7 @@ html{
   justify-content: left;
   align-items: left;
   flex-direction: column;
-  background-color: #09283E;
+  background-color: #B40000;
 }
 
 img{
@@ -61,7 +61,7 @@ img:hover{
 }
 
 i{
-  color: #09283E;
+  color: #B40000;
   transition: opacity 0.4s;
 }
 i:hover{
